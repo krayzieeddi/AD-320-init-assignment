@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "init package assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krayzieeddi/AD-320-init-assignment.git"
+  },
+  "author": "Edwin Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krayzieeddi/AD-320-init-assignment/issues"
+  },
+  "homepage": "https://github.com/krayzieeddi/AD-320-init-assignment#readme"
+}
